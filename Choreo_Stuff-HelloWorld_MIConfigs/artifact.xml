@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="API-HelloWorld" groupId="com.lmy.choreo.api" version="1.0.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/API-HelloWorld.xml</file>
+    </artifact>
+    <artifact name="API-HelloWorld_swagger" groupId="com.lmy.choreo.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/API-HelloWorld_swagger.yaml</file>
+    </artifact>
+    <artifact name="API-HelloWorld_metadata" groupId="com.lmy.choreo.metadata" version="1.0.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/API-HelloWorld_metadata.yaml</file>
+    </artifact>
+</artifacts>
